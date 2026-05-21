@@ -1,0 +1,34 @@
+# Abhängigkeiten
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Umgebungsvariablen (enthält geheime Schlüssel!)
+.env
+.env.local
+.env.*.local
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Build-Artefakte
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# Logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
