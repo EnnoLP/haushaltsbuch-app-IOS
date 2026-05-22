@@ -2,7 +2,7 @@
 
 **Datum:** 21. Mai 2026
 **Erstellt von:** Enno.W
-**Plattform:** iOS / iPadOS (iPhone & iPad)
+**Plattform:** iOS / iPadOS (iPhone & iPad) 
 
 ---
 
